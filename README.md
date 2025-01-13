@@ -30,9 +30,7 @@ Adapting to new technologies and work environments is my bread and butter.
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 - 🖥 &nbsp;Design:&nbsp;
   [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
-  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
-  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
-  ![Figma](https://img.shields.io/badge/photoshop-2024-green)
+  ![Photoshop](https://img.shields.io/badge/photoshop-2024-green)
 - ♾️ &nbsp;Devops:&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=blue)
   [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
