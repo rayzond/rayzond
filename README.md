@@ -30,6 +30,7 @@ Adapting to new technologies and work environments is my bread and butter.
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+  [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 - 🖥 &nbsp;Design:&nbsp;
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
@@ -40,9 +41,7 @@ Adapting to new technologies and work environments is my bread and butter.
 <h3 align="left">Connect with me:</h3>
 <p style="margin-left: 2rem;">
   <span height="30" width="40"></span>
-<a href="https://twitter.com/iaashirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaashirkhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aashir-khan-bb8315139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashir-khan-bb8315139" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7686708/aashir-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7686708/aashir-khan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/razdor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 <br/>
