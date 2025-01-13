@@ -42,7 +42,7 @@ Adapting to new technologies and work environments is my bread and butter.
 <p style="margin-left: 2rem;">
   <span height="30" width="40"></span>
 <a href="https://www.linkedin.com/in/razdor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01c9ae381f38f2581c" target="blank"><img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01c9ae381f38f2581c" target="blank"><img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff" height="30" width="80" /></a>
 
 </p>
 
